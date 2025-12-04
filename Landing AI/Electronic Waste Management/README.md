@@ -2,6 +2,18 @@
 
 > *"Every piece of waste sorted correctly is a step towards a sustainable future!"*
 
+## **📱 Quick Access Demo**
+
+🎯 **Scan the QR code below to test the model instantly:**
+
+<img src="https://raw.githubusercontent.com/prathamhanda/UML501P-3Q14-ML-Lab/refs/heads/main/Landing%20AI/Electronic%20Waste%20Management/Scan%20the%20QR.png" width="200" height="200">
+
+✨ **How to use:**
+1. Scan the QR code with your phone camera
+2. Upload or capture an image of waste
+3. Get instant classification results
+4. Follow disposal recommendations!
+
 ---
 
 ## **🚀 1. Methodology**
